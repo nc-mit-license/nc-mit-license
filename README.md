@@ -16,6 +16,7 @@ The NC-MIT License is a **custom license based on the MIT License**, with the fo
 - **Attribution:** The copyright notice and this permission notice must be included in all copies or substantial portions of the Software.
 - **Copyleft for NC Restriction:** Any modified or unmodified copies, forks, or derivative works of the Software **must retain this NC-MIT License**, including the Non-Commercial restriction.
 - **Exception for Licensed Commercial Use:** Holders of a valid commercial license from the Author are **exempt from the Non-Commercial restriction and the copyleft requirements**. Such use is governed solely by the separate commercial license agreement.
+- Commercial rights can only be granted by the original author(s). Forks or derivative works cannot grant commercial rights on their own.
 - **No Warranty:** The Software is provided "AS IS", without warranty of any kind.
 
 ---
