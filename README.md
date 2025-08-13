@@ -58,8 +58,30 @@ This ensures proper attribution, enforces the Non-Commercial restriction for fre
 
 ---
 
+## Why NC-MIT Exists
+
+Open source has brought incredible benefits to the world, but it also has a recurring problem:
+**developers spend months or years building something, only to see others take the source code, repackage it, and sell it without giving anything back.**
+
+NC-MIT (Non-Commercial MIT License) is designed for developers who:
+
+* **Want transparency** – making their source code available for review, learning, and community trust.
+* **Want fairness** – free access for personal, educational, and research use.
+* **Want sustainability** – commercial users must purchase a license, ensuring the author can continue development.
+* **Want protection** – prevents others from taking the code, re-licensing it, and selling it as their own product.
+
+This license is **not anti-open-source**. It is “source-available with clear boundaries” – you can still read, learn from, and modify the code.
+The only limitation is **you cannot profit from it without supporting the author**.
+
+In short:
+
+> **Free for individuals. Fair for businesses. Safe for developers.**
+
+---
+
 ## References
 
 * Inspired by MIT License
 * Concept adapted from source-available licenses such as BSL (Business Source License) and SSPL (Server Side Public License)
 
+---
